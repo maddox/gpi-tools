@@ -28,18 +28,15 @@ This repo collects a few things that are helpful for setting up your GPI case fr
 Here's some themes that work well on a small 4:3 screen
 
 ## GBZ35
-<img src="https://user-images.githubusercontent.com/260/59818966-0e3c0200-92f4-11e9-9a2a-fa91396733fc.png" width="300px">
-<img src="https://user-images.githubusercontent.com/260/59818967-1005c580-92f4-11e9-9bd9-29b9bb11c156.png" width="300px">
+<img src="https://user-images.githubusercontent.com/260/59818966-0e3c0200-92f4-11e9-9a2a-fa91396733fc.png" width="300px"><img src="https://user-images.githubusercontent.com/260/59818967-1005c580-92f4-11e9-9bd9-29b9bb11c156.png" width="300px">
 
 ## TFT
 
-<img src="https://user-images.githubusercontent.com/260/59819110-8efafe00-92f4-11e9-85dc-ae7e963c6de0.png" width="300px">
-<img src="https://user-images.githubusercontent.com/260/59819116-915d5800-92f4-11e9-9092-14dd875dc9a5.png" width="300px">
+<img src="https://user-images.githubusercontent.com/260/59819110-8efafe00-92f4-11e9-85dc-ae7e963c6de0.png" width="300px"><img src="https://user-images.githubusercontent.com/260/59819116-915d5800-92f4-11e9-9092-14dd875dc9a5.png" width="300px">
 
 
 ## Comic Book 4:3
-<img src="https://user-images.githubusercontent.com/260/59818995-33307500-92f4-11e9-899b-4a6fdb9254ef.png" width="300px">
-<img src="https://user-images.githubusercontent.com/260/59819002-375c9280-92f4-11e9-99a3-52b6c31e8733.png" width="300px">
+<img src="https://user-images.githubusercontent.com/260/59818995-33307500-92f4-11e9-899b-4a6fdb9254ef.png" width="300px"><img src="https://user-images.githubusercontent.com/260/59819002-375c9280-92f4-11e9-99a3-52b6c31e8733.png" width="300px">
 
 
 ## Advanced RetroPie/Raspberry Pi Customizations
