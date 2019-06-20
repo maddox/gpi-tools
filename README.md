@@ -20,6 +20,7 @@ This repo collects a few things that are helpful for setting up your GPI case fr
 * [Splash Screens](https://github.com/HerbFargus/retropie-splashscreens-extra)
 * [Add custom launch images](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand#adding-custom-launching-images)
 * [Launch images](https://github.com/ehettervik/es-runcommand-splash)
+* [Get launch videos to play at full speed](https://sudomod.com/forum/viewtopic.php?f=44&t=5953&sid=a445fc61f5d69f18b005c1318d303f41&start=10#p61371)
 * [WiFI & Bluetooth Toggle](https://retropie.org.uk/forum/topic/15839/toggling-wifi-and-bluetooth-on-and-off-inside-retropie-menus)
 * [Stereo/Mono Toggle](https://www.reddit.com/r/retroflag_gpi/comments/c176wg/sound_fix_for_gpi_mono_sound_link_inside/ercmmxy/)
 
